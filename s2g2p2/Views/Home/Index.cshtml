@@ -1,0 +1,44 @@
+﻿@model s2g2p2.Models.CV
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Dettagli CV</title>
+</head>
+<body>
+    <h1>Dettagli CV</h1>
+
+    <h2>Informazioni Personali</h2>
+    <p>Nome: @Model.InformazioniPersonali.Nome</p>
+    <p>Cognome: @Model.InformazioniPersonali.Cognome</p>
+    <p>Telefono: @Model.InformazioniPersonali.Telefono</p>
+    <p>Email: @Model.InformazioniPersonali.Email</p>
+
+    <h2>Studi Effettuati</h2>
+    @foreach (var studi in Model.StudiEffettuati)
+    {
+        <p>Qualifica: @studi.Qualifica</p>
+        <p>Istituto: @studi.Istituto</p>
+        <p>Tipo: @studi.Tipo</p>
+        <p>Dal: @studi.Dal</p>
+        <p>Al: @studi.Al</p>
+        <br />
+    }
+
+    <h2>Impieghi</h2>
+    @foreach (var impiego in Model.Impieghi)
+    {
+        @foreach (var esperienza in impiego.Esperienze)
+        {
+            <p>Azienda: @esperienza.Azienda</p>
+            <p>Job Title: @esperienza.JobTitle</p>
+            <p>Dal: @esperienza.Dal</p>
+            <p>Al: @esperienza.Al</p>
+            <p>Descrizione: @esperienza.Descrizione</p>
+            <p>Compiti: @esperienza.Compiti</p>
+            <br />
+        }
+    }
+</body>
+</html>
