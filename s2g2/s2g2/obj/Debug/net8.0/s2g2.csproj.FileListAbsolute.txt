@@ -1,0 +1,14 @@
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\bin\Debug\net8.0\s2g2.exe
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\bin\Debug\net8.0\s2g2.deps.json
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\bin\Debug\net8.0\s2g2.runtimeconfig.json
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\bin\Debug\net8.0\s2g2.dll
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\bin\Debug\net8.0\s2g2.pdb
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.AssemblyInfoInputs.cache
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.AssemblyInfo.cs
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.csproj.CoreCompileInputs.cache
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.dll
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\refint\s2g2.dll
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.pdb
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\s2g2.genruntimeconfig.cache
+C:\Users\niluf.PC-NIKO\Desktop\epicode learn\be\u1\s2\g2\s2g2\s2g2\obj\Debug\net8.0\ref\s2g2.dll
